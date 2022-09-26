@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "971729849650",
+    "firebase_url": "https://healify-9ae30-default-rtdb.firebaseio.com",
+    "project_id": "healify-9ae30",
+    "storage_bucket": "healify-9ae30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971729849650:android:41ee0e0a3dcac0cc809b2b",
+        "android_client_info": {
+          "package_name": "com.example.healify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971729849650-nefulfdosm65u2hf4qslnpuap6dgqtut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNY_UrDkVxhmI_xITR0WVHJ0Kp_8cH-IA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971729849650-nefulfdosm65u2hf4qslnpuap6dgqtut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

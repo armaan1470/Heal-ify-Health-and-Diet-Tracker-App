@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <font
+        app:fontStyle="normal"
+        app:fontWeight="100"
+        app:font="@font/helveticaneue_thin"/>
+    <font
+        app:fontWeight="400"
+        app:fontStyle="normal"
+        app:font="@font/helveticaneue_medium"/>
+    <font
+        app:fontStyle="normal"
+        app:fontWeight="700"
+        app:font="@font/helveticaneu_bold"/>
+    <font
+        app:fontStyle="normal"
+        app:fontWeight="300"
+        app:font="@font/helveticaneue_light"/>
+
+
+
+
+</font-family>
