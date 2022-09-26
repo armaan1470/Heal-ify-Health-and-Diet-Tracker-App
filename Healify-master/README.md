@@ -1,1 +1,1 @@
-Healify
+Healify App
